@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+
+SQLAlchemy
+psycopg2-binary
+
+requests
+protobuf
+gtfs-realtime-bindings
+
+python-dotenv
+
+pandas
+
+python-dotenv
