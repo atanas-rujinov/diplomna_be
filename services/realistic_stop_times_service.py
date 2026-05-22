@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 
 # Configuration
 GTFS_DIR = "gtfs_static"
-LOG_FILE = "arrival_log.csv"
+LOG_FILE = "arrival_log_cleaned.csv"
 IQR_MULTIPLIER = 3.0  # How many IQRs away to consider outlier (3.0 is more permissive than standard 1.5)
 OUTPUT_FILE = f"{GTFS_DIR}/realistic_stop_times.txt"
 

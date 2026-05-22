@@ -21,7 +21,11 @@ def parse_timestamp_safe(x):
         return pd.NaT
 
 df_raw["timestamp"] = df_raw["timestamp"].apply(parse_timestamp_safe)
+
+# Track broken timestamps
+before_timestamp = len(df_raw)
 df_raw = df_raw.dropna(subset=["timestamp"])
+removed_broken = before_timestamp - len(df_raw)
 
 # --- Load existing clean data (if any) ---
 if os.path.exists(CLEAN_FILE):
@@ -44,9 +48,9 @@ if df_raw.empty:
 
 # --- Cleaning steps ---
 
-# Drop duplicates (vehicle_id + trip_id + stop_id + day)
+# Drop duplicates (vehicle_id + trip_id + stop_id)
 before = len(df_raw)
-df_raw = df_raw.drop_duplicates(subset=["vehicle_id", "trip_id", "stop_id", "day"])
+df_raw = df_raw.drop_duplicates(subset=["vehicle_id", "trip_id", "stop_id"])
 removed_dupes = before - len(df_raw)
 
 # Remove unrealistic delays (outside ±2h)
@@ -57,9 +61,6 @@ if "delay_seconds" in df_raw.columns:
 else:
     removed_unrealistic = 0
     print("⚠️ No 'delay_seconds' column found, skipping delay filter.")
-
-# Drop helper column
-df_raw = df_raw.drop(columns=["day"])
 
 # --- Append cleaned new data to existing file ---
 if not df_clean_existing.empty:

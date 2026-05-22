@@ -3,10 +3,22 @@ vehicle_positions.log
 arrival_log.csv
 *.csv
 *.log
+*.txt
 arrival_log_cleaned.csv
 error_log.txt
 gtfs_static/realistic_stop_times.txt
-gtfs_static/agency.txt gtfs_static/calendar_dates.txt gtfs_static/fare_attributes.txt gtfs_static/feed_info.txt gtfs_static/levels.txt gtfs_static/pathways.txt gtfs_static/realistic_stop_times.txt gtfs_static/routes.txt gtfs_static/shapes.txt gtfs_static/stops.txt gtfs_static/stop_times.txt gtfs_static/transfers.txt gtfs_static/translations.txt gtfs_static/trips.txt
+gtfs_static/agency.txt
+gtfs_static/calendar_dates.txt
+gtfs_static/fare_attributes.txt
+gtfs_static/feed_info.txt
+gtfs_static/levels.txt
+gtfs_static/pathways.txt
+gtfs_static/realistic_stop_times.txt
+gtfs_static/routes.txt gtfs_static/shapes.txt
+gtfs_static/stops.txt gtfs_static/stop_times.txt
+gtfs_static/transfers.txt
+gtfs_static/translations.txt
+gtfs_static/trips.txt
 .env
 !.envexample
 .venv
