@@ -4003,6 +4003,43 @@ routes,long_name,en,AVTOSTANTSIYA IZTOK - ZH.K. KRASNA POLYANA - AVTOSTANTSIYA I
 routes,long_name,en,METROSTANTSIYA HADZHI DIMITAR - ZH.K. OVTCHA KUPEL-2 - METROSTANTSIYA HADZHI DIMITAR,,,МЕТРОСТАНЦИЯ ХАДЖИ ДИМИТЪР - Ж.К. ОВЧА КУПЕЛ-2 - МЕТРОСТАНЦИЯ ХАДЖИ ДИМИТЪР
 routes,long_name,en,Ul. Opаltchenska - ZH.K. LOZENETS - Ul. Opаltchenska,,,Ул. Опълченска - Ж.К. ЛОЗЕНЕЦ - Ул. Опълченска
 routes,long_name,en,ZH.k. Krasna poliana - AVTOSTANTSIYA IZTOK - ZH.k. Krasna poliana,,,Ж.к. Красна поляна - АВТОСТАНЦИЯ ИЗТОК - Ж.к. Красна поляна
+stops,stop_name,en,BL. 264 ZH.K. LYULIN 2,,,БЛ. 264 Ж.К. ЛЮЛИН 2
+trips,trip_headsign,en,Kv. Manastirski livadi-zapad,,,Кв. Манастирски ливади-запад
+trips,trip_headsign,en,Ploshtad Madedoniia,,,Площад Мадедония
+routes,long_name,en,KV. ILIYANTSI - Gara Sofiia sever - KV. ILIYANTSI,,,КВ. ИЛИЯНЦИ - Гара София север - КВ. ИЛИЯНЦИ
+routes,long_name,en,KV. ILIYANTSI - MODNA KASHTA AGRESIYA - KV. ILIYANTSI,,,КВ. ИЛИЯНЦИ - МОДНА КЪЩА АГРЕСИЯ - КВ. ИЛИЯНЦИ
+routes,long_name,en,KV. KNYAZHEVO - KV. ILIYANTSI - KV. KNYAZHEVO,,,КВ. КНЯЖЕВО - КВ. ИЛИЯНЦИ - КВ. КНЯЖЕВО
+routes,long_name,en,DEPO ISKAR - Mladezhki teatаr - DEPO ISKAR,,,ДЕПО ИСКЪР - Младежки театър - ДЕПО ИСКЪР
+routes,long_name,en,AVTOSTANTSIYA IZTOK - SELO DOLNI BOGROV - AVTOSTANTSIYA IZTOK,,,АВТОСТАНЦИЯ ИЗТОК - СЕЛО ДОЛНИ БОГРОВ - АВТОСТАНЦИЯ ИЗТОК
+routes,long_name,en,SELO ZHELYAVA - AVTOSTANTSIYA IZTOK - SELO ZHELYAVA,,,СЕЛО ЖЕЛЯВА - АВТОСТАНЦИЯ ИЗТОК - СЕЛО ЖЕЛЯВА
+routes,long_name,en,ZH.K. GEO MILEV - 28-MI POSHTENSKI KLON - ZH.K. GEO MILEV,,,Ж.К. ГЕО МИЛЕВ - 28-МИ ПОЩЕНСКИ КЛОН - Ж.К. ГЕО МИЛЕВ
+routes,long_name,en,zh.k. Hadzhi Dimitаr - ZH.K. BAKSTON - zh.k. Hadzhi Dimitаr,,,ж.к. Хаджи Димитър - Ж.К. БЪКСТОН - ж.к. Хаджи Димитър
+routes,long_name,en,PATEN VAZEL KALOTINA - METROSTANTSIYA SLIVNITSA - PATEN VAZEL KALOTINA,,,ПЪТЕН ВЪЗЕЛ КАЛОТИНА - МЕТРОСТАНЦИЯ СЛИВНИЦА - ПЪТЕН ВЪЗЕЛ КАЛОТИНА
+routes,long_name,en,Gara Sofiia sever - KV. ILIYANTSI - Gara Sofiia sever,,,Гара София север - КВ. ИЛИЯНЦИ - Гара София север
+routes,long_name,en,AP MALASHEVTSI - GRAD BUHOVO - AP MALASHEVTSI,,,АП МАЛАШЕВЦИ - ГРАД БУХОВО - АП МАЛАШЕВЦИ
+routes,long_name,en,DEPO ISKAR - Gara Poduiane - DEPO ISKAR,,,ДЕПО ИСКЪР - Гара Подуяне - ДЕПО ИСКЪР
+routes,long_name,en,AVTOSTANTSIYA ORLANDOVTSI - MANASTIR SV. MINA - AVTOSTANTSIYA ORLANDOVTSI,,,АВТОСТАНЦИЯ ОРЛАНДОВЦИ - МАНАСТИР СВ. МИНА - АВТОСТАНЦИЯ ОРЛАНДОВЦИ
+routes,long_name,en,KV. OVTCHA KUPEL - KV. KNYAZHEVO - KV. OVTCHA KUPEL,,,КВ. ОВЧА КУПЕЛ - КВ. КНЯЖЕВО - КВ. ОВЧА КУПЕЛ
+routes,long_name,en,Gara Zaharna fabrika - METROSTANTSIYA K. VELITCHKOV - Gara Zaharna fabrika,,,Гара Захарна фабрика - МЕТРОСТАНЦИЯ К. ВЕЛИЧКОВ - Гара Захарна фабрика
+routes,long_name,en,METROSTANTSIYA SLIVNITSA - PATEN VAZEL KALOTINA - METROSTANTSIYA SLIVNITSA,,,МЕТРОСТАНЦИЯ СЛИВНИЦА - ПЪТЕН ВЪЗЕЛ КАЛОТИНА - МЕТРОСТАНЦИЯ СЛИВНИЦА
+routes,long_name,en,Metrostantsiia SU Sv. Kliment Ohridski - ZH.K. GOTSE DELTCHEV - Metrostantsiia SU Sv. Kliment Ohridski,,,Метростанция СУ Св. Климент Охридски - Ж.К. ГОЦЕ ДЕЛЧЕВ - Метростанция СУ Св. Климент Охридски
+routes,long_name,en,GRAD BUHOVO - AP MALASHEVTSI - GRAD BUHOVO,,,ГРАД БУХОВО - АП МАЛАШЕВЦИ - ГРАД БУХОВО
+routes,long_name,en,KV. ORLANDOVTSI - Bul. Nikola Petkov - KV. ORLANDOVTSI,,,КВ. ОРЛАНДОВЦИ - Бул. Никола Петков - КВ. ОРЛАНДОВЦИ
+routes,long_name,en,NADLEZ NADEZHDA - KV. KNYAZHEVO - NADLEZ NADEZHDA,,,НАДЛЕЗ НАДЕЖДА - КВ. КНЯЖЕВО - НАДЛЕЗ НАДЕЖДА
+routes,long_name,en,28-MI POSHTENSKI KLON - ZH.K. GEO MILEV - 28-MI POSHTENSKI KLON,,,28-МИ ПОЩЕНСКИ КЛОН - Ж.К. ГЕО МИЛЕВ - 28-МИ ПОЩЕНСКИ КЛОН
+routes,long_name,en,PL. MAKEDONIYA - TSENTRALNA GARA - PL. MAKEDONIYA,,,ПЛ. МАКЕДОНИЯ - ЦЕНТРАЛНА ГАРА - ПЛ. МАКЕДОНИЯ
+routes,long_name,en,KV. KNYAZHEVO - Kv. Ovtcha kupel - KV. KNYAZHEVO,,,КВ. КНЯЖЕВО - Кв. Овча купел - КВ. КНЯЖЕВО
+routes,long_name,en,SU SV.KLIMENT OHRIDSKI - PL. STOTCHNA GARA - SU SV.KLIMENT OHRIDSKI,,,СУ СВ.КЛИМЕНТ ОХРИДСКИ - ПЛ. СТОЧНА ГАРА - СУ СВ.КЛИМЕНТ ОХРИДСКИ
+routes,long_name,en,OKOLOVRASTEN PAT - SELO BISTRITSA - OKOLOVRASTEN PAT,,,ОКОЛОВРЪСТЕН ПЪТ - СЕЛО БИСТРИЦА - ОКОЛОВРЪСТЕН ПЪТ
+routes,long_name,en,KV. ORLANDOVTSI - Ul. Pirotska - KV. ORLANDOVTSI,,,КВ. ОРЛАНДОВЦИ - Ул. Пиротска - КВ. ОРЛАНДОВЦИ
+routes,long_name,en,AVTOSTANTSIYA GEO MILEV - selo German - AVTOSTANTSIYA GEO MILEV,,,АВТОСТАНЦИЯ ГЕО МИЛЕВ - село Герман - АВТОСТАНЦИЯ ГЕО МИЛЕВ
+routes,long_name,en,ZH.K. DRUZHBA-2 - BUL. HRISTOFOR KOLUMB - ZH.K. DRUZHBA-2,,,Ж.К. ДРУЖБА-2 - БУЛ. ХРИСТОФОР КОЛУМБ - Ж.К. ДРУЖБА-2
+routes,long_name,en,KOKALYANSKO HANTCHE - PO ZHELANIE - KOKALYANSKO HANTCHE,,,КОКАЛЯНСКО ХАНЧЕ - ПО ЖЕЛАНИЕ - КОКАЛЯНСКО ХАНЧЕ
+routes,long_name,en,METROSTANTSIYA K. VELITCHKOV - Gara Zaharna fabrika - METROSTANTSIYA K. VELITCHKOV,,,МЕТРОСТАНЦИЯ К. ВЕЛИЧКОВ - Гара Захарна фабрика - МЕТРОСТАНЦИЯ К. ВЕЛИЧКОВ
+routes,long_name,en,UL. DIMITAR PETKOV - KV. ORLANDOVTSI - UL. DIMITAR PETKOV,,,УЛ. ДИМИТЪР ПЕТКОВ - КВ. ОРЛАНДОВЦИ - УЛ. ДИМИТЪР ПЕТКОВ
+routes,long_name,en,KV. ILIYANTSI - KV. KNYAZHEVO - KV. ILIYANTSI,,,КВ. ИЛИЯНЦИ - КВ. КНЯЖЕВО - КВ. ИЛИЯНЦИ
+routes,long_name,en,Mladezhki teatаr - DEPO ISKAR - Mladezhki teatаr,,,Младежки театър - ДЕПО ИСКЪР - Младежки театър
+stops,stop_name,en,Ul. Vihren,,,Ул. Вихрен
 trips,trip_headsign,en,ZH.k.Vrаbnitsa-1,,,Ж.к.Връбница-1
 stops,stop_name,en,DETSKA GRADINA 190,,,ДЕТСКА ГРАДИНА 190
 stops,stop_name,en,UL. TODOR YONTCHEV,,,УЛ. ТОДОР ЙОНЧЕВ
@@ -4132,3 +4169,112 @@ trips,trip_headsign,en,Ul. 514- vremenna,,,Ул. 514- временна
 routes,long_name,en,Ul. 514- vremenna - STIND - Ul. 514- vremenna,,,Ул. 514- временна - СТИНД - Ул. 514- временна
 routes,long_name,en,NADLEZ NADEZHDA - KV. MANASTIRSKI LIVADI-ZAPAD - NADLEZ NADEZHDA,,,НАДЛЕЗ НАДЕЖДА - КВ. МАНАСТИРСКИ ЛИВАДИ-ЗАПАД - НАДЛЕЗ НАДЕЖДА
 routes,long_name,en,UL. TODORINI KUKLI - Ul. 514- vremenna - UL. TODORINI KUKLI,,,УЛ. ТОДОРИНИ КУКЛИ - Ул. 514- временна - УЛ. ТОДОРИНИ КУКЛИ
+routes,long_name,en,TSENTRALNA GARA - PL. ZHURNALIST - TSENTRALNA GARA,,,ЦЕНТРАЛНА ГАРА - ПЛ. ЖУРНАЛИСТ - ЦЕНТРАЛНА ГАРА
+routes,long_name,en,Ul. Sv.Sv. Kiril i Metodiy - ZH.k. Gotse Deltchev - Ul. Sv.Sv. Kiril i Metodiy,,,Ул. Св.Св. Кирил и Методий - Ж.к. Гоце Делчев - Ул. Св.Св. Кирил и Методий
+stops,stop_name,en,UL. 514 - VREMENNA,,,УЛ. 514 - ВРЕМЕННА
+stops,stop_name,en,UL. 507 - VREMENNA,,,УЛ. 507 - ВРЕМЕННА
+stops,stop_name,en,UL. MAKGAHAN-VREMENNA,,,УЛ. МАКГАХАН-ВРЕМЕННА
+routes,long_name,en,KV. ILIYANTSI - TRIAGALNIKA - KV. ILIYANTSI,,,КВ. ИЛИЯНЦИ - ТРИЪГЪЛНИКА - КВ. ИЛИЯНЦИ
+stops,stop_name,en,PLOSHTAD MEKEDONIYA,,,ПЛОЩАД МЕКЕДОНИЯ
+routes,long_name,en,ZH.k. Hadzhi Dimitаr - SU SV.KLIMENT OHRIDSKI - ZH.k. Hadzhi Dimitаr,,,Ж.к. Хаджи Димитър - СУ СВ.КЛИМЕНТ ОХРИДСКИ - Ж.к. Хаджи Димитър
+routes,long_name,en,ZH.k. Hadzhi Dimitаr - ZH.K. BAKSTON - ZH.k. Hadzhi Dimitаr,,,Ж.к. Хаджи Димитър - Ж.К. БЪКСТОН - Ж.к. Хаджи Димитър
+trips,trip_headsign,en,PATNOSTROITELNA TEHNIKA,,,ПЪТНОСТРОИТЕЛНА ТЕХНИКА
+routes,long_name,en,PATNOSTROITELNA TEHNIKA - BALKAN STAR - PATNOSTROITELNA TEHNIKA,,,ПЪТНОСТРОИТЕЛНА ТЕХНИКА - БАЛКАН СТАР - ПЪТНОСТРОИТЕЛНА ТЕХНИКА
+stops,stop_name,en,Bul. Vladimir Vazov - vremenna,,,Бул. Владимир Вазов - временна
+stops,stop_name,en,92-ro ODZ-vremenna,,,92-ро ОДЗ-временна
+routes,long_name,en,PL. MAKEDONIYA - METROSTANTSIYA VITOSHA - PL. MAKEDONIYA,,,ПЛ. МАКЕДОНИЯ - МЕТРОСТАНЦИЯ ВИТОША - ПЛ. МАКЕДОНИЯ
+routes,long_name,en,TSENTARA KV. ILIYANTSI - SELO BALSHA - TSENTARA KV. ILIYANTSI,,,ЦЕНТЪРА КВ. ИЛИЯНЦИ - СЕЛО БАЛША - ЦЕНТЪРА КВ. ИЛИЯНЦИ
+routes,long_name,en,PL. STOTCHNA GARA - SU SV.KLIMENT OHRIDSKI - PL. STOTCHNA GARA,,,ПЛ. СТОЧНА ГАРА - СУ СВ.КЛИМЕНТ ОХРИДСКИ - ПЛ. СТОЧНА ГАРА
+routes,long_name,en,PL. SV. NEDELYA - KV. ORLANDOVTSI - PL. SV. NEDELYA,,,ПЛ. СВ. НЕДЕЛЯ - КВ. ОРЛАНДОВЦИ - ПЛ. СВ. НЕДЕЛЯ
+routes,long_name,en,ZH.k. Krasno selo - ZH.K. GOTSE DELTCHEV - ZH.k. Krasno selo,,,Ж.к. Красно село - Ж.К. ГОЦЕ ДЕЛЧЕВ - Ж.к. Красно село
+routes,long_name,en,SADEBNA PALATA - KV. KNYAZHEVO - SADEBNA PALATA,,,СЪДЕБНА ПАЛАТА - КВ. КНЯЖЕВО - СЪДЕБНА ПАЛАТА
+routes,long_name,en,OKOLOVRASTEN PAT - TSAREVA MAHALA - OKOLOVRASTEN PAT,,,ОКОЛОВРЪСТЕН ПЪТ - ЦАРЕВА МАХАЛА - ОКОЛОВРЪСТЕН ПЪТ
+routes,long_name,en,ZH.K. ZAPADEN PARK - zh.k. Liulin-5 - ZH.K. ZAPADEN PARK,,,Ж.К. ЗАПАДЕН ПАРК - ж.к. Люлин-5 - Ж.К. ЗАПАДЕН ПАРК
+routes,long_name,en,ZH.K. GEO MILEV - DEPO ISKAR - ZH.K. GEO MILEV,,,Ж.К. ГЕО МИЛЕВ - ДЕПО ИСКЪР - Ж.К. ГЕО МИЛЕВ
+routes,long_name,en,BL. 6 ZH.K. MLADOST-1 - ZH.k. Mladost-1 - BL. 6 ZH.K. MLADOST-1,,,БЛ. 6 Ж.К. МЛАДОСТ-1 - Ж.к. Младост-1 - БЛ. 6 Ж.К. МЛАДОСТ-1
+routes,long_name,en,PL. STOTCHNA GARA - ZH.K. GOTSE DELTCHEV - PL. STOTCHNA GARA,,,ПЛ. СТОЧНА ГАРА - Ж.К. ГОЦЕ ДЕЛЧЕВ - ПЛ. СТОЧНА ГАРА
+routes,long_name,en,NADLEZ NADEZHDA - pl. ZHurnalist - NADLEZ NADEZHDA,,,НАДЛЕЗ НАДЕЖДА - пл. Журналист - НАДЛЕЗ НАДЕЖДА
+routes,long_name,en,KV. OVTCHA KUPEL - Bul. Nikola Petkov - KV. OVTCHA KUPEL,,,КВ. ОВЧА КУПЕЛ - Бул. Никола Петков - КВ. ОВЧА КУПЕЛ
+routes,long_name,en,METROSTANTSIYA OPALTCHENSKA - DEPO ISKAR - METROSTANTSIYA OPALTCHENSKA,,,МЕТРОСТАНЦИЯ ОПЪЛЧЕНСКА - ДЕПО ИСКЪР - МЕТРОСТАНЦИЯ ОПЪЛЧЕНСКА
+routes,long_name,en,DEPO ISKAR - METROSTANTSIYA OPALTCHENSKA - DEPO ISKAR,,,ДЕПО ИСКЪР - МЕТРОСТАНЦИЯ ОПЪЛЧЕНСКА - ДЕПО ИСКЪР
+routes,long_name,en,STADION LOKOMOTIV - BALKANKAR AD - STADION LOKOMOTIV,,,СТАДИОН ЛОКОМОТИВ - БАЛКАНКАР АД - СТАДИОН ЛОКОМОТИВ
+routes,long_name,en,METROSTANTSIYA VITOSHA - ZH.K. BAKSTON - METROSTANTSIYA VITOSHA,,,МЕТРОСТАНЦИЯ ВИТОША - Ж.К. БЪКСТОН - МЕТРОСТАНЦИЯ ВИТОША
+trips,trip_headsign,en,UL. 514 - VREMENNA,,,УЛ. 514 - ВРЕМЕННА
+routes,long_name,en,ZH.K. BAKSTON - zh.k. Hadzhi Dimitаr - ZH.K. BAKSTON,,,Ж.К. БЪКСТОН - ж.к. Хаджи Димитър - Ж.К. БЪКСТОН
+routes,long_name,en,DEPO ISKAR - ZH.K. GEO MILEV - DEPO ISKAR,,,ДЕПО ИСКЪР - Ж.К. ГЕО МИЛЕВ - ДЕПО ИСКЪР
+routes,long_name,en,ZH.K. MLADOST-1 - BL. 41 ZH.K. MLADOST-1 - ZH.K. MLADOST-1,,,Ж.К. МЛАДОСТ-1 - БЛ. 41 Ж.К. МЛАДОСТ-1 - Ж.К. МЛАДОСТ-1
+routes,long_name,en,ZH.K. BAKSTON - METROSTANTSIYA VITOSHA - ZH.K. BAKSTON,,,Ж.К. БЪКСТОН - МЕТРОСТАНЦИЯ ВИТОША - Ж.К. БЪКСТОН
+stops,stop_name,en,BUL. VLADIMIR VAZOV - VREMENNA,,,БУЛ. ВЛАДИМИР ВАЗОВ - ВРЕМЕННА
+stops,stop_name,en,92 ODZ - VREMENNA,,,92 ОДЗ - ВРЕМЕННА
+routes,long_name,en,ZH.K. LEVSKI G - METROSTANTSIYA HADZHI DIMITAR - ZH.K. LEVSKI G,,,Ж.К. ЛЕВСКИ Г - МЕТРОСТАНЦИЯ ХАДЖИ ДИМИТЪР - Ж.К. ЛЕВСКИ Г
+routes,long_name,en,UL. 514 - VREMENNA - UL. 514,,,УЛ. 514 - ВРЕМЕННА - УЛ. 514
+routes,long_name,en,KV. ORLANDOVTSI - UL. DIMITAR PETKOV - KV. ORLANDOVTSI,,,КВ. ОРЛАНДОВЦИ - УЛ. ДИМИТЪР ПЕТКОВ - КВ. ОРЛАНДОВЦИ
+routes,long_name,en,METROSTANTSIYA VITOSHA - PL. MAKEDONIYA - METROSTANTSIYA VITOSHA,,,МЕТРОСТАНЦИЯ ВИТОША - ПЛ. МАКЕДОНИЯ - МЕТРОСТАНЦИЯ ВИТОША
+routes,long_name,en,ZH.K. BAKSTON - Ul. Gen. Gurko - ZH.K. BAKSTON,,,Ж.К. БЪКСТОН - Ул. Ген. Гурко - Ж.К. БЪКСТОН
+trips,trip_headsign,en,Pаtnostroitelna tehnika,,,Пътностроителна техника
+routes,long_name,en,HIZHA ALEKO - METROSTANTSIYA VITOSHA - HIZHA ALEKO,,,ХИЖА АЛЕКО - МЕТРОСТАНЦИЯ ВИТОША - ХИЖА АЛЕКО
+routes,long_name,en,Pаtnostroitelna tehnika - UMBAL SV. ANNA-UHO - Pаtnostroitelna tehnika,,,Пътностроителна техника - УМБАЛ СВ. АННА-УХО - Пътностроителна техника
+routes,long_name,en,METROSTANTSIYA HADZHI DIMITAR - ZH.K. LEVSKI G - METROSTANTSIYA HADZHI DIMITAR,,,МЕТРОСТАНЦИЯ ХАДЖИ ДИМИТЪР - Ж.К. ЛЕВСКИ Г - МЕТРОСТАНЦИЯ ХАДЖИ ДИМИТЪР
+routes,long_name,en,Bul. Nikola Petkov - KV. ORLANDOVTSI - Bul. Nikola Petkov,,,Бул. Никола Петков - КВ. ОРЛАНДОВЦИ - Бул. Никола Петков
+stops,stop_name,en,UL. IVAN KIRKOV,,,УЛ. ИВАН КИРКОВ
+routes,long_name,en,Pаtnostroitelna tehnika - PLOSHTAD  NA AVIATSIYATA - Pаtnostroitelna tehnika,,,Пътностроителна техника - ПЛОЩАД  НА АВИАЦИЯТА - Пътностроителна техника
+routes,long_name,en,Metrostantsiia SU Sv. Kliment Ohridski - ZH.K. BAKSTON - Metrostantsiia SU Sv. Kliment Ohridski,,,Метростанция СУ Св. Климент Охридски - Ж.К. БЪКСТОН - Метростанция СУ Св. Климент Охридски
+routes,long_name,en,PETA GRADSKA BOLNITSA - Pаtnostroitelna tehnika - PETA GRADSKA BOLNITSA,,,ПЕТА ГРАДСКА БОЛНИЦА - Пътностроителна техника - ПЕТА ГРАДСКА БОЛНИЦА
+routes,long_name,en,STADION LOKOMOTIV - ZH.K. LYULIN-5 - STADION LOKOMOTIV,,,СТАДИОН ЛОКОМОТИВ - Ж.К. ЛЮЛИН-5 - СТАДИОН ЛОКОМОТИВ
+routes,long_name,en,STIND - UL. 514 - STIND,,,СТИНД - УЛ. 514 - СТИНД
+routes,long_name,en,Pаtnostroitelna tehnika - PETA GRADSKA BOLNITSA - Pаtnostroitelna tehnika,,,Пътностроителна техника - ПЕТА ГРАДСКА БОЛНИЦА - Пътностроителна техника
+routes,long_name,en,KV. ORLANDOVTSI - Kv. Manastirski livadi-zapad - KV. ORLANDOVTSI,,,КВ. ОРЛАНДОВЦИ - Кв. Манастирски ливади-запад - КВ. ОРЛАНДОВЦИ
+routes,long_name,en,PL. STOTCHNA GARA - ZH.K. BOROVO - PL. STOTCHNA GARA,,,ПЛ. СТОЧНА ГАРА - Ж.К. БОРОВО - ПЛ. СТОЧНА ГАРА
+routes,long_name,en,UMBAL SV. ANNA-UHO - Pаtnostroitelna tehnika - UMBAL SV. ANNA-UHO,,,УМБАЛ СВ. АННА-УХО - Пътностроителна техника - УМБАЛ СВ. АННА-УХО
+routes,long_name,en,pl. ZHurnalist - PETA GRADSKA BOLNITSA - pl. ZHurnalist,,,пл. Журналист - ПЕТА ГРАДСКА БОЛНИЦА - пл. Журналист
+routes,long_name,en,UL. KAP. D. SPISAREVSKI - ZH.K. DRUZHBA-2 - UL. KAP. D. SPISAREVSKI,,,УЛ. КАП. Д. СПИСАРЕВСКИ - Ж.К. ДРУЖБА-2 - УЛ. КАП. Д. СПИСАРЕВСКИ
+stops,stop_name,en,SOFIYSKA MATEMATITCHESKA GIMNAZIYA PAISIY HILENDARSKI,,,СОФИЙСКА МАТЕМАТИЧЕСКА ГИМНАЗИЯ ПАИСИЙ ХИЛЕНДАРСКИ
+stops,stop_name,en,SOFIYSKA MATEMATITCHESKA GIMNAZIYA PAISIY,,,СОФИЙСКА МАТЕМАТИЧЕСКА ГИМНАЗИЯ ПАИСИЙ
+routes,long_name,en,TSENTRALNA AVTOGARA - KV. KNYAZHEVO - TSENTRALNA AVTOGARA,,,ЦЕНТРАЛНА АВТОГАРА - КВ. КНЯЖЕВО - ЦЕНТРАЛНА АВТОГАРА
+routes,long_name,en,ZH.K. LYULIN-5 - ZH.K. ZAPADEN PARK - ZH.K. LYULIN-5,,,Ж.К. ЛЮЛИН-5 - Ж.К. ЗАПАДЕН ПАРК - Ж.К. ЛЮЛИН-5
+routes,long_name,en,STADION G. ASPARUHOV - ZH.K. LEVSKI G - STADION G. ASPARUHOV,,,СТАДИОН Г. АСПАРУХОВ - Ж.К. ЛЕВСКИ Г - СТАДИОН Г. АСПАРУХОВ
+routes,long_name,en,KV. ORLANDOVTSI - PL. SV. NEDELYA - KV. ORLANDOVTSI,,,КВ. ОРЛАНДОВЦИ - ПЛ. СВ. НЕДЕЛЯ - КВ. ОРЛАНДОВЦИ
+routes,long_name,en,PLODOHRANILISHTE - METROSTANTSIYA SLIVNITSA - PLODOHRANILISHTE,,,ПЛОДОХРАНИЛИЩЕ - МЕТРОСТАНЦИЯ СЛИВНИЦА - ПЛОДОХРАНИЛИЩЕ
+routes,long_name,en,PL. LAVOV MOST - PL. ZHURNALIST - PL. LAVOV MOST,,,ПЛ. ЛЪВОВ МОСТ - ПЛ. ЖУРНАЛИСТ - ПЛ. ЛЪВОВ МОСТ
+stops,stop_name,en,UL. SNEZHANKA - VREMENNA,,,УЛ. СНЕЖАНКА - ВРЕМЕННА
+stops,stop_name,en,OTVAD REKATA - KUBRATOVO,,,ОТВЪД РЕКАТА - КУБРАТОВО
+trips,trip_headsign,en,STOKOV BAZAR ILIYANTSI,,,СТОКОВ БАЗАР ИЛИЯНЦИ
+routes,long_name,en,UL. KIRIL BLAGOEV - SELO MIROVYANE - UL. KIRIL BLAGOEV,,,УЛ. КИРИЛ БЛАГОЕВ - СЕЛО МИРОВЯНЕ - УЛ. КИРИЛ БЛАГОЕВ
+routes,long_name,en,BL. 13 ZH.K.ZAPADEN PARK - ZH.K. ZAPADEN PARK - BL. 13 ZH.K.ZAPADEN PARK,,,БЛ. 13 Ж.К.ЗАПАДЕН ПАРК - Ж.К. ЗАПАДЕН ПАРК - БЛ. 13 Ж.К.ЗАПАДЕН ПАРК
+routes,long_name,en,NADLEZ NADEZHDA - Ul. Pirotska - NADLEZ NADEZHDA,,,НАДЛЕЗ НАДЕЖДА - Ул. Пиротска - НАДЛЕЗ НАДЕЖДА
+routes,long_name,en,STADION LOKOMOTIV - ZOOPARKA - STADION LOKOMOTIV,,,СТАДИОН ЛОКОМОТИВ - ЗООПАРКА - СТАДИОН ЛОКОМОТИВ
+routes,long_name,en,UL. TODORINI KUKLI - UL. 514 - UL. TODORINI KUKLI,,,УЛ. ТОДОРИНИ КУКЛИ - УЛ. 514 - УЛ. ТОДОРИНИ КУКЛИ
+routes,long_name,en,UL. VITINYA - PETA GRADSKA BOLNITSA - UL. VITINYA,,,УЛ. ВИТИНЯ - ПЕТА ГРАДСКА БОЛНИЦА - УЛ. ВИТИНЯ
+stops,stop_name,en,Bаlgarsko Natsionalno Radio,,,Българско Национално Радио
+stops,stop_name,en,NOVATA GORA - BANKYA,,,НОВАТА ГОРА - БАНКЯ
+stops,stop_name,en,ul. Mitropolit Kiril Vidinski,,,ул. Митрополит Кирил Видински
+routes,long_name,en,PATNOSTROITELNA TEHNIKA - KV. BENKOVSKI - PATNOSTROITELNA TEHNIKA,,,ПЪТНОСТРОИТЕЛНА ТЕХНИКА - КВ. БЕНКОВСКИ - ПЪТНОСТРОИТЕЛНА ТЕХНИКА
+routes,long_name,en,AVTOSTANTSIYA BANKYA - NOVATA GORA - AVTOSTANTSIYA BANKYA,,,АВТОСТАНЦИЯ БАНКЯ - НОВАТА ГОРА - АВТОСТАНЦИЯ БАНКЯ
+routes,long_name,en,Ul. Gen. Gurko - Metrostantsiia Vitosha - Ul. Gen. Gurko,,,Ул. Ген. Гурко - Метростанция Витоша - Ул. Ген. Гурко
+trips,trip_headsign,en,NOVATA GORA - BANKYA,,,НОВАТА ГОРА - БАНКЯ
+routes,long_name,en,KV. KNYAZHEVO - SADEBNA PALATA - KV. KNYAZHEVO,,,КВ. КНЯЖЕВО - СЪДЕБНА ПАЛАТА - КВ. КНЯЖЕВО
+routes,long_name,en,ZH.k. Bаkston - PL. ZHURNALIST - ZH.k. Bаkston,,,Ж.к. Бъкстон - ПЛ. ЖУРНАЛИСТ - Ж.к. Бъкстон
+routes,long_name,en,BUL. TSAR BORIS III - ZH.K. KRASNO SELO - BUL. TSAR BORIS III,,,БУЛ. ЦАР БОРИС ІІІ - Ж.К. КРАСНО СЕЛО - БУЛ. ЦАР БОРИС ІІІ
+routes,long_name,en,NOVATA GORA - BANKYA - NOVATA GORA,,,НОВАТА ГОРА - БАНКЯ - НОВАТА ГОРА
+routes,long_name,en,zh.k. Hadzhi Dimitаr - SU SV.KLIMENT OHRIDSKI - zh.k. Hadzhi Dimitаr,,,ж.к. Хаджи Димитър - СУ СВ.КЛИМЕНТ ОХРИДСКИ - ж.к. Хаджи Димитър
+routes,long_name,en,Gara Poduiane - DEPO ISKAR - Gara Poduiane,,,Гара Подуяне - ДЕПО ИСКЪР - Гара Подуяне
+routes,long_name,en,PL. ZHURNALIST - PL. MAKEDONIYA - PL. ZHURNALIST,,,ПЛ. ЖУРНАЛИСТ - ПЛ. МАКЕДОНИЯ - ПЛ. ЖУРНАЛИСТ
+stops,stop_name,en,BL. 254 ZH.K.GOTSE DELTCHEV,,,БЛ. 254 Ж.К.ГОЦЕ ДЕЛЧЕВ
+stops,stop_name,en,BL. 254 ZH.K. GOTSE DELTCHEV,,,БЛ. 254 Ж.К. ГОЦЕ ДЕЛЧЕВ
+stops,stop_name,en,UL. PROF. VELIZAR VELKOV,,,УЛ. ПРОФ. ВЕЛИЗАР ВЕЛКОВ
+stops,stop_name,en,UL. KAZBEK,,,УЛ. КАЗБЕК
+stops,stop_name,en,ZH.k. Elizium,,,Ж.к. Елизиум
+stops,stop_name,en,UL. SPAS SOKOLOV,,,УЛ. СПАС СОКОЛОВ
+stops,stop_name,en,zh.k. Bаkston,,,ж.к. Бъкстон
+stops,stop_name,en,Ul. Kostenski vodopad,,,Ул. Костенски водопад
+trips,trip_headsign,en,Bul.Prof.TSv.Lazarov,,,Бул.Проф.Цв.Лазаров
+trips,trip_headsign,en,ZH.k.Bаkston,,,Ж.к.Бъкстон
+trips,trip_headsign,en,ZH.k. Druzhba 2,,,Ж.к. Дружба 2
+routes,long_name,en,METROSTANTSIYA SLIVNITSA - PLODOHRANILISHTE - METROSTANTSIYA SLIVNITSA,,,МЕТРОСТАНЦИЯ СЛИВНИЦА - ПЛОДОХРАНИЛИЩЕ - МЕТРОСТАНЦИЯ СЛИВНИЦА
+routes,long_name,en,ZH.k. Hadzhi Dimitаr - ZH.K. DRUZHBA-2 - ZH.k. Hadzhi Dimitаr,,,Ж.к. Хаджи Димитър - Ж.К. ДРУЖБА-2 - Ж.к. Хаджи Димитър
+stops,stop_name,en,ZHK ELIZIUM,,,ЖК ЕЛИЗИУМ
+stops,stop_name,en,UL. MAKGAHAN- VREMENNA,,,УЛ. МАКГАХАН- ВРЕМЕННА
+routes,long_name,en,PETA GRADSKA BOLNITSA - NADLEZ NADEZHDA - PETA GRADSKA BOLNITSA,,,ПЕТА ГРАДСКА БОЛНИЦА - НАДЛЕЗ НАДЕЖДА - ПЕТА ГРАДСКА БОЛНИЦА
+routes,long_name,en,TRIAGALNIKA - STOKOV BAZAR ILIYANTSI - TRIAGALNIKA,,,ТРИЪГЪЛНИКА - СТОКОВ БАЗАР ИЛИЯНЦИ - ТРИЪГЪЛНИКА
+stops,stop_name,en,POLETO - PO ZHELANIE,,,ПОЛЕТО - ПО ЖЕЛАНИЕ
+routes,long_name,en,ZH.K. IZTOK - Pаtnostroitelna tehnika - ZH.K. IZTOK,,,Ж.К. ИЗТОК - Пътностроителна техника - Ж.К. ИЗТОК
